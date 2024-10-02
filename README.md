@@ -1,7 +1,6 @@
-Terms of Service for satxtler
+
 Terms of Service
 
-Last Updated: [Insert Date]
 
 1. Acceptance of Terms
 By using satxtler (the "Bot"), you agree to these Terms of Service. If you do not agree with any part of these terms, you must not use the Bot.
@@ -24,10 +23,8 @@ We may update these Terms of Service from time to time. We will notify users of 
 7. Governing Law
 These Terms shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles.
 
-Privacy Policy for satxtler
 Privacy Policy
 
-Last Updated: [Insert Date]
 
 1. Information We Collect
 We collect the following types of information when you use the Bot:
@@ -59,5 +56,5 @@ Withdraw your consent at any time (where applicable).
 We may update this Privacy Policy from time to time. We will notify users of any changes by posting the new policy on our website or Discord server.
 
 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at our support server: Join Support Server.
+If you have any questions about this Privacy Policy, please contact us at our support server: [Join Support Server.]{https://discord.gg/mZ3pkyRcU9}
 
