@@ -56,5 +56,5 @@ Withdraw your consent at any time (where applicable).
 We may update this Privacy Policy from time to time. We will notify users of any changes by posting the new policy on our website or Discord server.
 
 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at our support server: [Join Support Server.]{https://discord.gg/mZ3pkyRcU9}
+If you have any questions about this Privacy Policy, please contact us at our support server: [Join Support Server.](https://discord.gg/mZ3pkyRcU9)
 
